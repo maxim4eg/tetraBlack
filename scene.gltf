@@ -1,0 +1,670 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 8950,
+      "max": [
+        1.7171642780303955,
+        2.4348273277282715,
+        1.4909911155700684
+      ],
+      "min": [
+        -1.7164802551269531,
+        -1.2076982259750366,
+        -1.491321325302124
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 107400,
+      "componentType": 5126,
+      "count": 8950,
+      "max": [
+        0.9999995231628418,
+        1,
+        0.99999970197677612
+      ],
+      "min": [
+        -0.9999995231628418,
+        -1,
+        -1
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 8950,
+      "max": [
+        1.0536149740219116,
+        1.0021859407424927
+      ],
+      "min": [
+        0.0193752720952034,
+        0.0088098049163818359
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 49536,
+      "max": [
+        8949
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 214800,
+      "componentType": 5126,
+      "count": 8950,
+      "max": [
+        1.7171642780303955,
+        2.4348273277282715,
+        1.4909911155700684
+      ],
+      "min": [
+        -1.7164802551269531,
+        -1.2076982259750366,
+        -1.491321325302124
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 322200,
+      "componentType": 5126,
+      "count": 8950,
+      "max": [
+        0.9999995231628418,
+        1,
+        0.99999970197677612
+      ],
+      "min": [
+        -0.9999995231628418,
+        -1,
+        -1
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 71600,
+      "componentType": 5126,
+      "count": 8950,
+      "max": [
+        1.0536149740219116,
+        1.0021859407424927
+      ],
+      "min": [
+        0.0193752720952034,
+        0.0088098049163818359
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 198144,
+      "componentType": 5125,
+      "count": 49536,
+      "max": [
+        8949
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 429600,
+      "componentType": 5126,
+      "count": 121,
+      "max": [
+        35.326679229736328,
+        21.656627655029297,
+        50
+      ],
+      "min": [
+        -50,
+        -8.58306884765625e-06,
+        -50
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 431052,
+      "componentType": 5126,
+      "count": 121,
+      "max": [
+        4.2915343101412873e-07,
+        1,
+        4.2915343101412873e-07
+      ],
+      "min": [
+        -0.99889999628067017,
+        0.046892274171113968,
+        -4.291782715881709e-07
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 143200,
+      "componentType": 5126,
+      "count": 121,
+      "max": [
+        1,
+        1
+      ],
+      "min": [
+        0,
+        0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 396288,
+      "componentType": 5125,
+      "count": 600,
+      "max": [
+        120
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "tetralab (https://sketchfab.com/tetralab)",
+      "license": "CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)",
+      "source": "https://sketchfab.com/3d-models/tetrahedron-anim-lightset-c13b9fa384434b879efba1ebdedfc861",
+      "title": "Tetrahedron Anim LightSet"
+    },
+    "generator": "Sketchfab-9.36.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 398688,
+      "byteOffset": 0,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 144168,
+      "byteOffset": 398688,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 432504,
+      "byteOffset": 542856,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 975360,
+      "uri": "scene.bin"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "material",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.17460000000000001,
+          0.187857,
+          0.96999999999999997,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.9858578643762691
+      }
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "Mat.3",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.96888730162779191
+      }
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "Mat.1",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.95243171539989113
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Tetrahedron_Blue_Mat_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Tetrahedron_Black_Mat.3_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Background_Mat.1_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 9,
+            "POSITION": 8,
+            "TEXCOORD_0": 10
+          },
+          "indices": 11,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [
+        -0.70710678118654746,
+        -0,
+        -0,
+        0.70710678118654757
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        1,
+        -5.0532153924443121e-16,
+        1.6081226229577292e-16,
+        0,
+        5.0532153924443121e-16,
+        1,
+        -1.6081226229577292e-16,
+        0,
+        -1.6081226229577292e-16,
+        1.6081226229577292e-16,
+        1,
+        0,
+        1.3322676295501878e-15,
+        3.1281943181638017e-16,
+        -8.8817841970012523e-16,
+        1
+      ],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [
+        3
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        -1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "name": "c71afdf512284bfe8e8f9bc186c7f38e.fbx"
+    },
+    {
+      "children": [
+        4,
+        6
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        5
+      ],
+      "matrix": [
+        0.78598314587317519,
+        -0.61819212973754056,
+        0.0083057289788894036,
+        0,
+        0.61815761594206386,
+        0.78602702926207457,
+        0.006532313698953178,
+        0,
+        -0.010566752392801941,
+        -3.8846682470176225e-08,
+        0.99994417031345695,
+        0,
+        -19.592071533203125,
+        12.977401733398438,
+        -1.5255411863327026,
+        1
+      ],
+      "name": "Camera"
+    },
+    {
+      "name": ""
+    },
+    {
+      "children": [
+        7,
+        10,
+        12,
+        15,
+        20
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0.79602622985839844,
+        5.6254582405090332,
+        0.62362790107727051,
+        1
+      ],
+      "name": "Tetrahedron_Light_gr"
+    },
+    {
+      "children": [
+        8
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        2.2204460492503131e-16,
+        1,
+        0,
+        0,
+        -1,
+        2.2204460492503131e-16,
+        0,
+        -0.79602622985839844,
+        1.7508972883224487,
+        20.532768249511719,
+        1
+      ],
+      "name": "Light_2"
+    },
+    {
+      "children": [
+        9
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        2.2204460492503131e-16,
+        1,
+        0,
+        0,
+        -1,
+        2.2204460492503131e-16,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "name": ""
+    },
+    {
+      "name": ""
+    },
+    {
+      "children": [
+        11
+      ],
+      "matrix": [
+        0.93071077635738897,
+        -0.36575599895589478,
+        4.1606013439749446e-08,
+        0,
+        0.36575599895589223,
+        0.93071077635738908,
+        5.8497415787111078e-08,
+        0,
+        -6.0118945817198312e-08,
+        -3.9226526253895306e-08,
+        0.99999999999999745,
+        0,
+        -6.278900146484375,
+        -1.5481849908828735,
+        -0.60743540525436401,
+        1
+      ],
+      "name": "TetrahedronCam"
+    },
+    {
+      "name": ""
+    },
+    {
+      "children": [
+        13
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        2.2204460492503131e-16,
+        1,
+        0,
+        0,
+        -1,
+        2.2204460492503131e-16,
+        0,
+        -8.775486946105957,
+        8.2769994735717773,
+        -0.62362790107727051,
+        1
+      ],
+      "name": "Light"
+    },
+    {
+      "children": [
+        14
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        2.2204460492503131e-16,
+        1,
+        0,
+        0,
+        -1,
+        2.2204460492503131e-16,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "name": ""
+    },
+    {
+      "name": ""
+    },
+    {
+      "children": [
+        16,
+        18
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        -0.79602622985839844,
+        -3.7517833709716797,
+        -0.62362790107727051,
+        1
+      ],
+      "name": "Tetrahedron_gr"
+    },
+    {
+      "children": [
+        17
+      ],
+      "name": "Tetrahedron_Blue"
+    },
+    {
+      "mesh": 0,
+      "name": "Tetrahedron_Blue_Mat_0"
+    },
+    {
+      "children": [
+        19
+      ],
+      "name": "Tetrahedron_Black"
+    },
+    {
+      "mesh": 1,
+      "name": "Tetrahedron_Black_Mat.3_0"
+    },
+    {
+      "children": [
+        21
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        9.5256004333496094,
+        -9.0192928314208984,
+        -0.62362796068191528,
+        1
+      ],
+      "name": "Background"
+    },
+    {
+      "mesh": 2,
+      "name": "Background_Mat.1_0"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}
+
